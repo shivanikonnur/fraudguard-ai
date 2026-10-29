@@ -171,7 +171,8 @@ fraudguard-ai/
 ![FraudGuard AI Dashboard](screenshots/dashboard.png)
 
 ### Model Evaluation
-![Model Evaluation](screenshots/evaluation.png)
+![Model Evaluation](screenshots/evaluation_1.png)
+
 
 ### Fraud Prediction
 ![Fraud Prediction](screenshots/prediction.png)
