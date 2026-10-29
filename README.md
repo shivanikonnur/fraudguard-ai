@@ -171,18 +171,6 @@ fraudguard-ai/
 ![FraudGuard AI Dashboard](screenshots/dashboard.png)
 
 ### Model Evaluation
-![Model Evaluation](screenshots/evaluation_1.png)
-![Evaluation 2](screenshots/evaluation_2.png)
-![Evaluation 3](screenshots/evaluation_3.png)
-![Evaluation 4](screenshots/evaluation_4.png)
-![Evaluation 5](screenshots/evaluation_5.png)
-![Evaluation 6](screenshots/evaluation_6.png)
-
-
-### Fraud Prediction
-![Fraud Prediction](screenshots/prediction.png)
-
-### Model Evaluation
 
 ![Evaluation 1](screenshots/evaluation_1.png)
 
@@ -195,3 +183,9 @@ fraudguard-ai/
 ![Evaluation 5](screenshots/evaluation_5.png)
 
 ![Evaluation 6](screenshots/evaluation_6.png)
+
+
+
+### Fraud Prediction
+![Fraud Prediction](screenshots/prediction.png)
+
