@@ -163,3 +163,15 @@ fraudguard-ai/
 - scikit-learn model evaluation: https://scikit-learn.org/stable/modules/model_evaluation.html
 - imbalanced-learn: https://imbalanced-learn.org/
 - Streamlit documentation: https://docs.streamlit.io/
+
+
+## Dashboard Screenshots
+
+### Dashboard Overview
+![FraudGuard AI Dashboard](screenshots/dashboard.png)
+
+### Model Evaluation
+![Model Evaluation](screenshots/evaluation.png)
+
+### Fraud Prediction
+![Fraud Prediction](screenshots/prediction.png)
